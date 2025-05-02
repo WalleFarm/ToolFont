@@ -1,0 +1,13 @@
+release/MainInterface.o
+release/main.o
+release/RowCheckBox_qml.o
+release/BaseButton02_qml.o
+release/MainView_qml.o
+release/BaseButton01_qml.o
+release/BaseComboBox_qml.o
+release/MsgDialog02_qml.o
+release/ImageCheckBox02_qml.o
+release/main_qml.o
+release/qmlcache_loader.o
+release/qrc_image.o
+release/moc_MainInterface.o

@@ -1,0 +1,13 @@
+debug/MainInterface.o
+debug/main.o
+debug/RowCheckBox_qml.o
+debug/BaseButton02_qml.o
+debug/MainView_qml.o
+debug/BaseButton01_qml.o
+debug/BaseComboBox_qml.o
+debug/MsgDialog02_qml.o
+debug/ImageCheckBox02_qml.o
+debug/main_qml.o
+debug/qmlcache_loader.o
+debug/qrc_image.o
+debug/moc_MainInterface.o

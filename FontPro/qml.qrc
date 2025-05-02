@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>BaseButton01.qml</file>
+        <file>BaseButton02.qml</file>
+        <file>BaseComboBox.qml</file>
+        <file>ImageCheckBox02.qml</file>
+        <file>MainView.qml</file>
+        <file>MsgDialog02.qml</file>
+        <file>RowCheckBox.qml</file>
+    </qresource>
+</RCC>
